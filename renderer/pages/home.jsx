@@ -6,10 +6,10 @@ import LoginForm from './LoginForm'
 import { GridList, list750, list916, listSilver} from './components/Body'
 import EditModal from './EditModal'
 import DeleteModal from './DeleteModal'
-// import Chart from "chart.js/auto";
-// import { CategoryScale } from "chart.js";
-// import LineChart from './components/LineChart';
-// Chart.register(CategoryScale);
+import Chart from "chart.js/auto";
+import { CategoryScale } from "chart.js";
+import LineChart from './components/LineChart';
+Chart.register(CategoryScale);
 
 export default function HomePage() {
   const [message, setMessage] = React.useState('No message found')
@@ -277,13 +277,13 @@ export default function HomePage() {
                       </div>
                       <div>
                         <h1 className="text-2xl font-bold mb-4 text-center">{selectedItem} Sales Chart</h1>
-                        {/* <LineChart data={showItemData.map((itm)=>(
+                        <LineChart data={showItemData.map((itm)=>(
                           {
                             date : itm.Date,
                             sale : itm["In/Out Weight"]?.charAt(0) === '-'? -1*parseFloat(itm["In/Out Weight"]).toFixed(2) : 0
                           }
                         ))}
-                        /> */}
+                        />
                       </div>
                     </div>
                     }
@@ -403,13 +403,13 @@ export default function HomePage() {
                       </div>
                       <div>
                         <h1 className="text-2xl font-bold mb-4 text-center">{selectedItem} Sales Chart</h1>
-                        {/* <LineChart data={showItemData.map((itm)=>(
+                        <LineChart data={showItemData.map((itm)=>(
                           {
                             date : itm.Date,
                             sale : itm["In/Out Weight"]?.charAt(0) === '-'? -1*parseFloat(itm["In/Out Weight"]).toFixed(2) : 0
                           }
                         ))}
-                        /> */}
+                        />
                       </div>
                     </div>
                     }

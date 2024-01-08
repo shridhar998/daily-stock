@@ -1,4 +1,4 @@
-// api/read-json.js
+// // api/read-json.js
 
 import fs from 'fs';
 import path from 'path';
@@ -15,3 +15,12 @@ export default (req, res) => {
     res.status(500).json({ error: 'Internal Server Error' });
   }
 };
+
+// api/read-stock-json.js
+
+// export default (req, res) => {
+//   // json-server will automatically handle reading data from stock-db.json
+//   // and responding to the request
+//   res.status(200).json(res.locals.data);
+// };
+

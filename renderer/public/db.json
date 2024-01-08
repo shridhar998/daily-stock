@@ -1,0 +1,40 @@
+{
+  "sale_data" : [
+    {
+      "Item": "LR 916",
+      "Date": "16/12/2023",
+      "Time": "21:32",
+      "Customer's Name": "bhxxca",
+      "Customer's Phone No.": "",
+      "Customer's Address": "",
+      "Weight": "1.34",
+      "Price": "",
+      "Bill No.": "",
+      "uuid": "e4-23-0b-97-9e-f9-4e-32-91-a1-d9-d1-94-c0-75-09"
+    },
+    {
+      "Item": "LR 916",
+      "Date": "16/12/2023",
+      "Time": "22:10",
+      "Customer's Name": "shridhar sarraf",
+      "Customer's Phone No.": "06152232588",
+      "Customer's Address": "dahiyawan chapra",
+      "Weight": "5.890",
+      "Price": "",
+      "Bill No.": "",
+      "uuid": "9c-4a-ec-ba-cd-d3-47-62-94-ac-c2-8f-81-30-73-c9"
+    },
+    {
+      "Item": "LR 916",
+      "Date": "17/12/2023",
+      "Time": "20:22",
+      "Customer's Name": "abcd",
+      "Customer's Phone No.": "",
+      "Customer's Address": "",
+      "Weight": "2.30",
+      "Price": "",
+      "Bill No.": "",
+      "uuid": "f5-aa-85-10-8a-47-46-11-80-7b-66-6f-ec-79-34-83"
+    }
+  ]
+}

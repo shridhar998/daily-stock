@@ -1,4 +1,4 @@
-// api/write-json.js
+// // api/write-json.js
 
 import fs from 'fs';
 import path from 'path';
@@ -36,3 +36,22 @@ export default (req, res) => {
     res.status(405).json({ error: 'Method Not Allowed' });
   }
 };
+// api/write-json.js
+
+// export default (req, res) => {
+//   if (req.method === 'POST') {
+//     try {
+//       // The body of the POST request contains the data to be added
+//       const newData = req.body;
+
+//       // Respond with the added data, including any additional properties you want to include
+//       res.status(201).json(newData);
+//     } catch (error) {
+//       console.error('Error handling POST request:', error);
+//       res.status(500).json({ error: 'Internal Server Error' });
+//     }
+//   } else {
+//     res.status(405).json({ error: 'Method Not Allowed' });
+//   }
+// };
+

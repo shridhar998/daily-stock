@@ -1,0 +1,116 @@
+{
+  "stock_data" : [
+    {
+      "Item": "Locket 916",
+      "Date": "16/12/2023",
+      "Weight": "92.72",
+      "Pcs": "52",
+      "uuid": "6c456bc3-2f4e-4e7b-8cd2-ae748f58a5b2"
+    },
+    {
+      "Item": "Chain 916",
+      "Date": "16/12/2023",
+      "Weight": "288.730",
+      "Pcs": "29",
+      "uuid": "1c3a8b52-23cb-40db-bb57-83b719d3b4b1"
+    },
+    {
+      "Item": "LR 916",
+      "Date": "16/12/2023",
+      "Weight": "174.470",
+      "Pcs": "68",
+      "uuid": "9e028a6b-c634-4f0e-a19d-6ecf1ee05bf9"
+    },
+    {
+      "Item": "Earring 916",
+      "Date": "16/12/2023",
+      "Weight": "284.330",
+      "Pcs": "79",
+      "uuid": "fd3b3cc5-66b7-4297-986a-19d377f7b03e"
+    },
+    {
+      "Item": "GR 916",
+      "Date": "16/12/2023",
+      "Weight": "121.280",
+      "Pcs": "30",
+      "uuid": "7a3f32c1-2e89-4aa4-906d-8ee0ef5e0a0d"
+    },
+    {
+      "Item": "2 Kunda 916",
+      "Date": "16/12/2023",
+      "Weight": "125.910",
+      "Pcs": "25",
+      "uuid": "8c418647-6f62-4b16-9e0d-8be1a2fe4bd3"
+    },
+    {
+      "Item": "Bali 916",
+      "Date": "16/12/2023",
+      "Weight": "134.860",
+      "Pcs": "47",
+      "uuid": "22a5bf7f-d8f7-44b3-af7f-6d7fe7dbd3e3"
+    },
+    {
+      "Item": "Jhumka 916",
+      "Date": "16/12/2023",
+      "Weight": "188.910",
+      "Pcs": "21",
+      "uuid": "93235e2c-625c-4a23-9fc8-6efc7c6d986b"
+    },
+    {
+      "Item": "2 Kunda 750",
+      "Date": "16/12/2023",
+      "Weight": "103.650",
+      "Pcs": "24",
+      "uuid": "1268a1b4-64b9-4d24-8a79-2c098c0c1240"
+    },
+    {
+      "Item": "Earring 750",
+      "Date": "16/12/2023",
+      "Weight": "203.060",
+      "Pcs": "59",
+      "uuid": "3f2c10f5-d7b5-429d-86bf-e4b9b164c268"
+    },
+    {
+      "Item": "GR 750",
+      "Date": "16/12/2023",
+      "Weight": "151.530",
+      "Pcs": "51",
+      "uuid": "0fd8b1b8-5b46-48e9-8777-3cc426e6c59c"
+    },
+    {
+      "Item": "Bali 750",
+      "Date": "16/12/2023",
+      "Weight": "111.150",
+      "Pcs": "27",
+      "uuid": "7153c396-6142-4a1c-99d0-e370f9a0ef94"
+    },
+    {
+      "Item": "LR 750",
+      "Date": "16/12/2023",
+      "Weight": "176.070",
+      "Pcs": "73",
+      "uuid": "8d583a93-2db2-4c1f-96e3-8a81a9c8b69e"
+    },
+    {
+      "Item": "Jhumka 750",
+      "Date": "16/12/2023",
+      "Weight": "214.490",
+      "Pcs": "25",
+      "uuid": "6e2c66b9-1bc7-4cc2-b32b-7f9d93879a65"
+    },
+    {
+      "Item": "Locket 750",
+      "Date": "16/12/2023",
+      "Weight": "66.470",
+      "Pcs": "43",
+      "uuid": "a5f7d40b-bc0e-44d8-94fe-88c61e72aebf"
+    },
+    {
+      "Item": "Chain 750",
+      "Date": "16/12/2023",
+      "Weight": "398.490",
+      "Pcs": "45",
+      "uuid": "4f25d7c9-384c-4b46-bc2b-227a4626b3ea"
+    }
+  ]
+}
